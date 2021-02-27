@@ -1,0 +1,16 @@
+cardsInHand.txt
+a.Explain how to see the cards in Miss Scarlet (the first player) hand when the program begins;
+b.Explain how to see the cards in another player's hand when their turn begins;
+c.Explain how to verify each card (other than those in the solution) appear in exactly one players hand.
+
+a. When you starting the program, The player's hand shows under the "Player's Hand" JLabel. These cards are
+   the player hands.
+   
+b. After ending Miss Scarlet's turn, the JLabels under the "Player's Hand" JLabel will change accordingly. When
+   You end turn and start a next player turn, the JLabel text will change, and those will be the cards that player
+   will have.
+   
+c. I have the envelope cards shown so that you can verify that none of the players have the same cards. You can easily
+   check by starting each player turns and check each player's hand.
+   
+ 

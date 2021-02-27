@@ -1,0 +1,16 @@
+sixSidedRoll.txt
+1.Explain how to see you have code which correctly generate a die/dice roll.;
+2.Explain where the die/dice roll for Miss Scarlet (the first player) is 
+        displayed when the program begins;
+3.Explain where the updated die/dice roll for another player is displayed 
+        when their turn begins program begins.
+        
+1.Press "Roll" will give a random integer from 1 to 6, that is the correctly
+  generate dice roll.
+  
+2.After you press "Start" JButton, and it will show it is Miss Scarlet's
+  turn and press "Roll" JButton, it will give you random integer from
+  1 to 6, that is the dice roll for Miss Scarlet.
+  
+3.After another's turn begins, press "Roll" JButton, and will show your
+  another random integer, that is Dice Roll for another player.

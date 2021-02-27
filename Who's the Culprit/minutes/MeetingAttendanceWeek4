@@ -1,0 +1,28 @@
+10/04/16
+-ZhiWen Huang - U
+-Darren Chu - M
+-Jason Lin
+-WeiYang Chen
+
+User Story: (27minute)
+
+user story 1 (Darren and Jason)
+	-No update yet
+	
+user story 2 (Zhi Wen Huang, Wei Yang Chen)
+	@Last Week playerCardMatch()-
+		-this test that there are players contain the card we suggest
+	@Last Week noOneHasMatchCard()-
+		-this test that there are no players contain the card we suggest
+	@This Week whenSuggestMade()-
+		-this method allows each player turn by turn to suggest a card or don't suggest a card if they
+		don't have the card.
+	@This Week suggestionHasBeenMade()
+		-this method gives player to make a suggestion. with the suggestion made, it pass through to the top methods
+		noOneHasMatchCard() and playerCardMath().
+	@This Week suggestionAreCorrect()
+		-The Suggestion made is correct end game.
+		
+For next meeting- (15minute)
+	Zhi && Wei Yang pair programming.
+	finish model and start userstory 1 (Darren and Jason).

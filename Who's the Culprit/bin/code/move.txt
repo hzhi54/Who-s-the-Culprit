@@ -1,0 +1,21 @@
+move.txt
+a.Explain how to enter a move and see that a legal movement that stays within the hallway updates the player's location;
+b.Explain how to enter a move and see that a legal movement that goes through a doorway and ends in a room updates the player's location;
+c.Explain how to enter a move which uses a secret passageway updates the player's location;
+d.Explain how illegal moves are prevented (including showing an error message if your program allows a user to try this).
+
+
+a. After starting a player's turn, roll the dice, then the arrow buttons will set enable. You can click the button to move.
+
+b. After on a door, you can use the door by clicking the "enter" JButton. It will update the player to the middle of the room.
+
+c. At the starting of the turn, if this player is inside a room, the "secret" JButton will set enable. If that room has a secret passage
+   then it will send the player to the room to a different room that also has the secret passage.
+   Remember, it only works if a player starting position is inside a room.
+
+d. Illegal move are prevented by updating nothing on the board. For example, if you try to move the player outside of the board, the player
+   will stay in the same position and their moves won't be reduce. This also applies when a player tries move into a room without permission
+   and trying to go to blocked spaces of the board. The hallway and the door are the only spots that a player can move to.
+   
+   hallway has a color of Grey
+   door has a color of Pink

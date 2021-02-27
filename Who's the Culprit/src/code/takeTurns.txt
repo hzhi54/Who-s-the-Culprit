@@ -1,0 +1,18 @@
+takeTurns.txt
+a.Explain how to verify your program defines all 6 players;
+b.Explain how to see that turns rotate between all 6 players in the correct order.
+ 
+ a.go to the code package, then run Driver.java and you will see
+   6 players on the board.
+ 
+ b. After you run the board, and you will see "start" JButton, when you
+    press the button,it will start the first player turn, when you press
+    "end" JButton, it will stop current player turn and press "start" JButton
+    again, it will switch to next player turn.    
+    1.Scarlet
+    2.Plum
+    3.Green
+    4.White
+    5.Peacock
+    6.Mustard
+    That will be our order.

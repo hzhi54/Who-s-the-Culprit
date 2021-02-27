@@ -1,0 +1,11 @@
+As a player, I want to know the player who will show me a card proving my suggestion is false.
+
+Zhi Wen && WeiYang 
+
+	9/20
+	English version:
+		-In this JUnit test:
+			-We will need to implement the Card model in the JUnit test in order to test if the cards prove the suggestion wrong.
+			-Suggestion, here will be what the Player will think the 3 cards is. We need to make sure if the suggestion is from the Card model.
+			-Return true when the Player shows the card that was suggested.
+			-However, we have to consider all different possible solution.

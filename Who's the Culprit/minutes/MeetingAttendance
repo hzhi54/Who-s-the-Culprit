@@ -1,0 +1,42 @@
+Attendence 9/13 Week 5
+-ZhiWen Huang - U
+-Darren Chu - M
+-Jason Lin
+-WeiYang Chen
+
+User Story - blank
+
+Goal for next week: (32minutes)
+	-moveLegality - Darren Chu and Jason Lin
+		-Write in English about how to write the code. User Stories are suppose to be JUnit test(i think).
+		-We will then compare our ideas and get the best out of it and start coding out JUnit test.
+	-suggestionProof - WeiYang Chen and ZhiWen Huang
+		-Write in English about how to write the code. User Stories are suppose to be JUnit test(i think).
+		-We will then compare our ideas and get the best out of it and start coding out JUnit test.
+	
+	-Wanted to finish out User Stories ASAP :) so we can start doing the modeling down below:
+		
+*This for next week meeting*
+	-Next week each of us will start our models of the Board, Players, Board Elements, and Cards
+	-Rules for each role:		
+		-Board: 
+			-nine rooms
+			-weapon on 6 rooms
+		-Players:
+			-there are 6 players and their own colors
+		-Board Elements:
+			-die
+				-the amount of move each player gets
+			-starting position with character names
+			-letter marked X on the stairs
+		-Cards:
+			-21 cards
+				-6 characters
+				-6 weapons
+				-9 cards, one for each room
+			-detective notes pad
+			-letter card
+				-3 of them
+			
+			
+			

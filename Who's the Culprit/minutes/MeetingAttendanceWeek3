@@ -1,0 +1,28 @@
+Attendence 9/27
+-ZhiWen Huang - U
+-Darren Chu - M
+-Jason Lin
+-WeiYang Chen
+
+User Story: 5-10min
+
+for user story 1 (5 minute)
+	@Test playerinroom()-
+		-this test makes sure player can only suggest when they are in room
+	@Test noadditionalmovement()-
+		-this test to make sure player don't move more or less than what the die roll
+	@Test illegalmovement()-
+		-this test to makues sure player only move horizontally and vertically
+for user story 2:
+	@Test playercardmatch()-
+		-this test that there are players contain the card we suggest
+	@Test noonehasmatchcard()
+		-this test that there are no players contain the card we suggest
+
+Goal for next Week (20~ minute)
+	
+	-Start Models
+	-We assign individually which model we are doing.
+	-get as muc hdone as possible and if there is a problem bring it to next meeting
+	-Start pair programming.
+	

@@ -1,0 +1,30 @@
+Attendance 11/1 week 8
+Zhi Wen Huang - U
+Darren Chu - M
+Wei Yang Chen 
+Jason Lin
+
+User Stories: Complete 4 out of 7 user stories. (10 minutes)
+	
+	- As a player, I want turns to follow the order that Miss Scarlet goes first (this is from the rules), 
+ then Professor Plum, Mr. Green, Mrs. White, Mrs. Peacock, and, finally, Col. Mustard so we can have a simple ordering.
+	
+	- As a player, I want to be able to see the board and where each player is on the board so we can see where each player's piece is.
+	
+	- As a player, I want to know whose turn it is and the result of the die roll (e.g., a random integer between 1 and 6) 
+ so we can know how many square they may move.
+	
+	- As a player, I want to be able to input my move into the system and only have legal moves accepted
+ so that we know everyone is following the rules.
+ 
+This week meeting (15 minutes)
+	- Talk about doing the rest of user stories.
+	- Who will think about certain part for the rest of the 3 user stories
+	- Assign team for pair programming
+	
+Next week goal (15-20 minutes)
+	- Get most of the game done.
+	- Do not try to implement anything until all team sees it
+	- Pair programming must need. (Especially Jason :D )
+	- Work on the code as muc has posibble, but do not feel stressed. 
+	- Due date on 21. We just realize.

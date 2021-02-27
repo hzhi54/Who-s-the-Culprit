@@ -1,0 +1,18 @@
+boardVis.txt
+1.Explain how to see the program board in your GUI;
+2.Explain how to see that the 6 players are shown at their starting 
+        location when the game begins;
+3.Explain how to see the program can display updated player locations when 
+        their location changes.
+        
+1.Open the code package, then run the Driver.java
+  then you will see the program board.
+  
+2.After above steps, you will see 6 players with different colors and with 
+  different capital letters "A,B,C,D,E,F" on the board, and they are in the
+  starting location.
+
+3.When you press "start" JButton and press "Roll" JButton, it will give you
+  the random number from 1 to 6, and that is the steps you can make, and
+  you can click "Up","Down","Left" or "Right" sign to move players location,
+  then you will see their location changes step by step.

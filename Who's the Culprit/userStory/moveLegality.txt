@@ -1,0 +1,14 @@
+As a player, I want to know whether a move breaks the rules of the game.
+
+Daren && Jason
+
+	9/20
+	English Version:
+		In the JUnit test:
+			-You can only move the same number of times as you rolled the dice during that turn
+			-You can only suggest when you are inside a room.
+			-You can only move vertically and horizontally.
+			-You can only move your appointed token.
+			-You can only move where there are no obstacles.
+			-You can only enter the room base on the Board Model.
+			

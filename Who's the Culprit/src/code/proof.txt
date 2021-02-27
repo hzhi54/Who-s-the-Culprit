@@ -1,0 +1,30 @@
+proof.txt
+Explain how to see the name of the next player and the card disproving a suggestion when the next player holds a card disproving suggestion;
+Explain how to see the name of the player-after-next and the card disproving a suggestion when the next player cannot disprove a suggestion, but the player-after-next can;
+Explain how to see the name of the player BEFORE the player making the suggestion and the card disproving a suggestion when only they have a card disproving a suggestion;
+Explain how to see that nobody could disprove the suggestion when only the suggesting player can disprove the suggestion;
+Explain how to see that nobody could disprove the suggestion when nobody can disprove the suggestion.
+
+This part is very hard to break down one by one. Instead I will explain this as a whole.
+
+When a player is suggesting, he or she must be in a room to do that. After clicking the "suggest" JButton, a new JFrame pops out. 
+Inside the JFrame, you can choose what card you want to select. You can only select ONE CHARACTER CARD, ONE WEAPON CARD, AND THE ROOM CARD is the room
+you are IN. After choosing what the player want to suggest, press the "confirmed" JButton. This will give you the answer to this part.
+
+There are three JLabels and under that, there are three JButton. After clicking the "confirmed" JButton, they will change. The three JLabel
+will either said:
+
+	(Some Player) prove this:
+	FALSE
+	
+The first will be referring to the weapon card the player had suggested, the second is the room, and the third is the weapon.
+
+If the cards are proven, it will give a the JButton a GREEN color meaning someone proved it. And the player name who proved it is on top of the
+JButton.
+
+If the cards are not proven, it will give the JButton a RED color meaning no one has the card. And there will be no player name, instead it will
+give the text "FALSE".
+
+When the card being suggested is in the suggesting player's hand, then it will print out "FALSE" and the JButton will be RED color.
+
+	

@@ -1,0 +1,19 @@
+suggest.txt
+a. Explain how to see that a player can enter a suggestion;
+b. Explain how to see that a suggestion will have to include a weapon & person and forces the player to use the room they are in;
+c. Explain how to see that a suggestion can only be made when a player is in a room.
+
+
+a.  First run the game by going to the code package run Driver class as an application. Then play the game by
+	pressing the JButton "start", roll the dice, and move the player. Have a player to enter a room by first going to
+	a pink tile, then press the JButton "enter" to enter the room. Once the player is in the room, the JButton "Suggest" will light up
+	and then you can suggest as that that character by pressing the JButton "Suggest".
+	
+b.	Repeat part a of the suggest.txt, then after pressing the JButton "Suggest", you would see a a window titled "Suggest frame". 
+	From there you can see that there are selection of weapons and player. The room will be pre-selected as the room your player is in.
+	Select the a weapon and character and the second row of the Suggest frame will update and show the character and weapon you selected.
+	The room can not be changed since you can only suggest the room your in.
+	
+c.	First run the game by going to the code package and run Driver class as an application. Then play the game by
+	pressing the JButton "start", roll the dice, and move the player. Player will not be able to press the JButton "Suggest"
+	until the player has enter a room.
